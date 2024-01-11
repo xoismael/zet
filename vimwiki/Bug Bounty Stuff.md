@@ -1,11 +1,5 @@
 # A brain dump of all about Bug bounty
 
-- [Jan 10](Jan 10)
-- [alkd](alkd)
-- [kajdf](kajdf)
-- 
-
-
 
 # Generated Tags
 

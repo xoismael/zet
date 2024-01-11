@@ -1,5 +1,0 @@
-# Random
-
-just testing
-
-:sqli:
